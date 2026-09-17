@@ -40,3 +40,6 @@ A solução permite que o usuário:
 
 O objetivo é reduzir o tempo necessário para encontrar uma opção de alimentação, oferecendo ao usuário informações organizadas para auxiliar sua escolha.
 
+
+Link de acesso:
+https://www.figma.com/make/QirPGqJgUE5krgUxOHwY9a/Fluxo-e-Paleta-de-Cores?t=YIgiF6nicmnBaKs3-1
